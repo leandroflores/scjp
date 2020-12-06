@@ -1,4 +1,4 @@
-package scjp.init.question01;
+package scjp.static_.question01;
 
 /**
  * Question 1. What is the result of compiling and running the following code?
