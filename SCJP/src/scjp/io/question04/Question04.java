@@ -5,9 +5,7 @@ package scjp.io.question04;
  *             BufferedWriter?
  */
 public class Question04 {
-    public static void main(String[] args) {
-        
-    }
+    public static void main(String[] args) {}
 }
 
 /**
