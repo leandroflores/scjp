@@ -7,6 +7,7 @@ public class Test25 {
     public static void main(String[] args) {
          Integer i = new Integer(0);
          Float f = new Float(0);
+         
          //System.out.println(i == f);
          //System.out.println(i.equals(f));
     }
