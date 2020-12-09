@@ -1,7 +1,7 @@
 package scjp.inheritance.question07;
 
 /**
- * Question 6. Would the following code compile and if yes, what is the output?
+ * Question 7. What is the output of compiling and running the following program?
  */
 class Category {
     Category() {
@@ -19,7 +19,6 @@ class SubSubCategory extends SubCategory {
     SubSubCategory() {
         System.out.print("SubSubCategory_");
     }
-    
 }
 
 public class Tester {
